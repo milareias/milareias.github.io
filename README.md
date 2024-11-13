@@ -17,8 +17,8 @@
 
 __This is a bold text__
 
-* *This is italic text* * 
+*This is italic text*
 
-_ _This is italic text_ _
+_This is italic text_
 
 ~~This was mistaken text~~ 
