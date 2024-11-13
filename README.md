@@ -25,3 +25,5 @@ _This is italic text_
 
 
 ![Myself](./IMG_4007.jpeg)
+
+<img src="./IMG_4007.jpeg" alt="Myself" width="400">
