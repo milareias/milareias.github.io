@@ -24,6 +24,6 @@ _This is italic text_
 ~~This was mistaken text~~ 
 
 
-#![Myself](./IMG_4007.jpeg)
+<!--![Myself](./IMG_4007.jpeg)-->
 
 <img src="./IMG_4007.jpeg" alt="Myself" width="400">
