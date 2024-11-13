@@ -24,4 +24,4 @@ _This is italic text_
 ~~This was mistaken text~~ 
 
 
-!(./IMG_4007.jpeg) 
+![Myself](./IMG_4007.jpeg)
