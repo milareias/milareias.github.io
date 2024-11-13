@@ -17,8 +17,8 @@
 
 __This is a bold text__
 
-*This is italic text* 
+* *This is italic text* * 
 
-__This is italic text__
+_ _This is italic text_ _
 
-˜˜Strikethrough˜˜ 
+~~This was mistaken text~~ 
