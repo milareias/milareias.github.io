@@ -22,3 +22,6 @@ __This is a bold text__
 _This is italic text_
 
 ~~This was mistaken text~~ 
+
+
+![Photo by maitree rimthong from Pexels: https://www.pexels.com/photo/person-putting-coin-in-a-piggy-bank-1602726/]
