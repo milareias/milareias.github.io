@@ -1,5 +1,4 @@
-title: My GitHub Page
-description: This is my GitHub Pages site with a Jekyll theme.
-theme: jekyll-theme-minimal  # Example theme
-
-
+title: My Personal Site
+description: A blog about coding and technology
+theme: jekyll-theme-cayman
+author: Camila
