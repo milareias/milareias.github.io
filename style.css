@@ -10,3 +10,7 @@ header, section {
 h1, h2 {
     color: #333;
 }
+
+.light-blue {
+  color: lightblue;
+}
