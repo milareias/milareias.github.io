@@ -1,4 +1,4 @@
-Here are a list with my publications!!
+Here is a list with my publications!!
 
 1. Silva, D.F.N.; Areias, C.; Dornelas, N.; Sá-Valle, L.G.R.; Cruz, A.P.S.; Seoane, J.C.S.; Vasconcelos, C., Strikis, N.M., Santos, D.S.; Paytan, A. & Barbosa, C.F., (2024) Holocene paleo-redox conditions in a microbial dolomitic lake using foraminifera as bioindicators. Marine Micropaleontology
 2. Garuglieri, E.; Marasco, R.; Odobel, C.; Chandra, V.; Teillet, T.; Areias, C.; Sánchez-Román, M.; Vahrenkamp, V. & Daffonchio, D., (2024) Searching for microbial contribution to micritization of shallow marine sediments. Environmental Microbiology.
