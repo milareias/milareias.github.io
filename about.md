@@ -25,3 +25,17 @@ My journey has been an exciting one. From a young age, I’ve been involved in s
     <img src="./images/IMG_7906.jpeg" alt="Image 4">
   </div>
 </div>
+
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);  /* Creates 2 columns */
+  gap: 10px;  /* Space between images */
+}
+
+.image-item img {
+  width: 200px;  /* Sets image width to 200px */
+  height: 200px;  /* Sets image height to 200px */
+  object-fit: cover;  /* Ensures images fill the space without distortion */
+}
+</style>
