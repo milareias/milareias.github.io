@@ -26,7 +26,7 @@ Universidade Federal Fluminense -
 ## Experience
 
 **2020 - 2024 - Postdoctoral Researcher** - 
-<span class="light-blue">Vrije Universiteit Amsterdam</span> (Amsterdam, Netherlands):
+<span style="color: #ADD8E6;">Vrije Universiteit Amsterdam</span> (Amsterdam, Netherlands):
 Conducted experimental research to refine the understanding of carbonate systems.
 
 **2016 - 2020 - PhD Researcher** -
