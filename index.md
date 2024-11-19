@@ -45,5 +45,5 @@ Oversees and regulate environmental policies and initiatives within the state of
 
 **Fieldwork Planning and Management**
 
-[Check here my full academic CV] (./Camila Areias_CV_2024.pdf)
+[Check here my academic CV](./CA_CV_2024.pdf)
 
