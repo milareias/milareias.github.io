@@ -14,9 +14,11 @@ My name is Camila, and I am a dynamic and results-oriented researcher with a Ph.
 **PhD degree in Geoscience (Environmental Geochemistry)**
 Universidade Federal Fluminense
 2016 - 2020 Niterói, Brazil
+
 **Master's degree in Geoscience (Geology)**
 Universidade Federal do Rio de Janeiro
 2014 - 2016 Rio de Janeiro, Brazil
+
 **Bachelor's degree in Biology**
 Universidade Federal Fluminense
 2007 - 2012 Niterói, Brazil
