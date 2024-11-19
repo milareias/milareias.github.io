@@ -4,3 +4,9 @@ theme: jekyll-theme-minimal
 author: Camila
 
 permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
