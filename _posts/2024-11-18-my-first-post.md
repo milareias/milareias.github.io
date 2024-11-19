@@ -7,4 +7,4 @@ categories: Blog
 
 Welcome to my first blog post! Here’s some content.
 
-<img src="IMG_4007.jpeg" alt="Myself" width="400">
+<img src="/images/IMG_8709.jpg" alt="Myself" width="400">
