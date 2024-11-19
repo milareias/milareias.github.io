@@ -1,3 +1,5 @@
+[Home](./index.md) | [About Me](./about.md) | [Publications](./Publications.md) | [Contact](./contact.md)
+
 # About Me
 
 Hello! My name is Camila, and I specialize in Environmental Geochemistry. I have a Ph.D. in Geoscience with extensive experience in analytical tools, data analysis, project management, and scientific communication.
