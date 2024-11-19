@@ -6,3 +6,5 @@ categories: Blog
 ---
 
 Welcome to my first blog post! Here’s some content.
+
+<img src="IMG_4007.jpeg" alt="Myself" width="400">
