@@ -2,3 +2,5 @@ title: Camila Areias PhD
 description: A blog about my career trajectory and goals
 theme: jekyll-theme-minimal
 author: Camila
+
+permalink: /:year/:month/:day/:title/
