@@ -1,3 +1,10 @@
+---
+layout: default
+title: Projects
+---
+
+# Publications
+
 Here is a list with my publications!!
 
 1. Silva, D.F.N.; **Areias, C.**; Dornelas, N.; Sá-Valle, L.G.R.; Cruz, A.P.S.; Seoane, J.C.S.; Vasconcelos, C., Strikis, N.M., Santos, D.S.; Paytan, A. & Barbosa, C.F., (2024) Holocene paleo-redox conditions in a microbial dolomitic lake using foraminifera as bioindicators. Marine Micropaleontology
