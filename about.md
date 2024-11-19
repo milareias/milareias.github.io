@@ -26,6 +26,7 @@ My journey has been an exciting one. From a young age, I’ve been involved in s
   </div>
 </div>
 
+<!-- Add the styles in the markdown file itself -->
 <style>
 .image-grid {
   display: grid;
