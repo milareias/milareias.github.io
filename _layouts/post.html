@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - My Blog</title>
+  <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+</head>
+<body>
+
+  <header>
+    <h1><a href="{{ "/" | relative_url }}">My Blog</a></h1>
+  </header>
+
+  <main>
+    <article>
+      <h2>{{ page.title }}</h2>
+      <p><strong>{{ page.date | date: "%B %d, %Y" }}</strong></p>
+      <div>{{ content }}</div>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2024 My Blog</p>
+  </footer>
+
+</body>
+</html>
