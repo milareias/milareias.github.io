@@ -1,4 +1,4 @@
-[Home](./index.md) | [About Me](./about.md) | [Publications](./Publications.md) | [Contact](./contact.md)| [Projects](./projects.md)
+[Home](./index.md) | [About Me](./about.md) | [Publications](./Publications.md) | [Contact](./contact.md)| [Projects](./projects.md) | [Blog](./blog.md)
 
 # About Me
 
