@@ -1,8 +1,8 @@
-[Home](./index.md) | [About Me](./about.md) | [Publications](./Publications.md) | [Contact](./contact.md)
 ---
 layout: default
 title: Publications
 ---
+[Home](./index.md) | [About Me](./about.md) | [Publications](./Publications.md) | [Contact](./contact.md)
 
 # Publications
 
