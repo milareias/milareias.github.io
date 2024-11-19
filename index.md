@@ -4,8 +4,9 @@
 
 Hello! My name is Camila, and I specialize in Environmental Geochemistry. I have a Ph.D. in Geoscience with extensive experience in analytical tools, data analysis, project management, and scientific communication.
 
-<img src="IMG_4007.jpeg" alt="Myself" width="200" class="center-image">
-
+<div style="text-align: center;">
+  <img src="IMG_4007.jpeg" alt="Myself" width="200">
+</div>
 
 ## Experience
 
