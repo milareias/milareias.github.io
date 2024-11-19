@@ -11,26 +11,36 @@ My name is Camila, and I am a dynamic and results-oriented researcher with a Ph.
 
 ## EDUCATION
 
-**PhD degree in Geoscience (Environmental Geochemistry)**
-Universidade Federal Fluminense
-2016 - 2020 Niterói, Brazil
+**2020 - PhD degree in Geoscience (Environmental Geochemistry)**
+Universidade Federal Fluminense -
+(Niterói, Brazil)
 
-**Master's degree in Geoscience (Geology)**
-Universidade Federal do Rio de Janeiro
-2014 - 2016 Rio de Janeiro, Brazil
+**2016 - Master's degree in Geoscience (Geology)**
+Universidade Federal do Rio de Janeiro -
+(Rio de Janeiro, Brazil)
 
-**Bachelor's degree in Biology**
-Universidade Federal Fluminense
-2007 - 2012 Niterói, Brazil
-
-## Skills
-
-- **Analytical Tools**: XRD, SEM, ICP-OES, XRF
-- **Data Analysis**: R software
-- **Fieldwork Planning and Management**
+**2012 - Bachelor's degree in Biology**
+Universidade Federal Fluminense -
+(Niterói, Brazil)
 
 ## Experience
 
 **2020 - 2024 - Postdoctoral Researcher** - 
-<span class="light-blue">Vrije Universiteit Amsterdam</span> (Netherlands):
+<span class="light-blue">Vrije Universiteit Amsterdam</span> (Amsterdam, Netherlands):
 Conducted experimental research to refine the understanding of carbonate systems.
+
+**2016 - 2020 - PhD Researcher** -
+<span class="light-blue">Universidade Federal Fluminense</span> (Niterói, Brazil):
+Developed research contributing to a deeper understanding of complex geological and climatic dynamics.
+
+**2014 - 2016 - Junior Project Manager** -
+<span class="light-blue">Secretary of the Environment of Rio de Janeiro State</span> (Rio de Janeiro, Brazil):
+Oversees and regulate environmental policies and initiatives within the state of Rio de Janeiro.
+
+## Skills 
+
+**Analytical Tools**: XRD, SEM, ICP-OES, XRF
+
+**Data Analysis**: R software
+
+**Fieldwork Planning and Management**
